@@ -11,7 +11,7 @@ head {
 }
 
 body {
-    
+    background-color: #0065a4;
 }
 
 h1 {
@@ -20,4 +20,12 @@ h1 {
 
 p {
     
+}
+
+header{
+    background-color: #007cba;
+}
+    
+footer{
+    background-color: #007cba;
 }
